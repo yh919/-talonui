@@ -24,11 +24,11 @@ const config: Config = {
       },
       animation: {
         marquee: "marquee var(--duration) infinite linear",
-        "marquee-vertical": "marquee-vertical var(--duration) linear infinite",
+        "marquee-vertical": "marquee-vertical var(--duration) linear infinite",
       },
     },
   },
   plugins: [],
-}
+};
 
 export default config;
