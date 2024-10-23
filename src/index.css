@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --duration: 5s; /* Adjust duration as needed */
+  --gap: 1rem; /* Adjust gap as needed */
+}
